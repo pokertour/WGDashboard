@@ -63,5 +63,10 @@
 		"lang_id": "pl",
 		"lang_name": "Polish",
 		"lang_name_localized": "Polski"
+	},
+	{
+		"lang_id": "fr-fr",
+		"lang_name": "French",
+		"lang_name_localized": "Français"
 	}
 ]
